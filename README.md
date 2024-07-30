@@ -1,7 +1,9 @@
 # Pecan Impactor Geometry Study
 
 Here is the data analyzed and reported on in the article: "The Effect of Impactor Geometry on End-to-End Pecan Cracking"
+
 Authors: Mark W. Jackson, Cody M. Langston, Leah E. Madsen, & R. Benjamin Davis
+
 Published: AgriEngineering, 2024
 
 A short description of each file in the total dataset:
